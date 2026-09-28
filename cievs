@@ -1,0 +1,3 @@
+@using BazaKlientow
+@using BazaKlientow.Models
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
